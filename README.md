@@ -1,6 +1,6 @@
 # Mind_the_gap
 ## Project description 
-This repository contains the complete set of scripts used in the Mind the Gap project coordinated by the SIB Swiss Institute of Bioinformatics (Lausanne, Switzerland, https://www.sib.swiss/) in the context of the European Reference Genome Atlas (ERGA, https://www.erga-biodiversity.eu/) initiative.
+This repository contains the complete set of scripts used in the Mind the Gap project coordinated by the SIB Swiss Institute of Bioinformatics (Lausanne, Switzerland, https://www.sib.swiss/) under the Biodiversity Genomics Europe (BGE) project (https://biodiversitygenomics.eu/).
 
 Each folder in this repository represents an analysed European species.
 
