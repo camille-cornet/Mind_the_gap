@@ -3,10 +3,10 @@
 This folder contains the scripts used to analyse whole-genome sequencing data from 10 individuals belonging to two populations of _Thunnus thynnus_ sampled in the Gulf of Mexico and Mediterranean Sea (Sicily, Italy) for the Mind the Gap project. 
 
 
-## Author
-Piergiorgio Massa, University of Bologna - BiGeA Dept., Italy
-Alessia Cariani, University of Bologna - BiGeA Dept., Italy
+## Authors
 
+- Piergiorgio Massa, University of Bologna - BiGeA Dept., Italy
+- Alessia Cariani, University of Bologna - BiGeA Dept., Italy
 
 
 ## Environment
