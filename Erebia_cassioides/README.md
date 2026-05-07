@@ -5,5 +5,6 @@ This folder contains the scripts used to analyse WGS from 10 individuals belongi
 
 ## Author
 Camille Cornet, University of Neuchâtel, Switzerland
+
 Kay Lucek, University of Neuchâtel, Switzerland
 
